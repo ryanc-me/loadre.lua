@@ -1,6 +1,6 @@
 #loadre.lua
 
-loadre lurker implementation that allows re-loading of middleclass entities after a hotswap. it requires [lume](github.com/rxi/lume), [lurker](github.com/rxi/lurker), and optionally [linen](github.com/mginshe/linen). please see the respective pages (in order) for guides on their setup and installation.
+loadre lurker implementation that allows re-loading of middleclass entities after a hotswap. it requires [middleclass](https://github.com/kikito/middleclass), [lume](github.com/rxi/lume), [lurker](github.com/rxi/lurker), and optionally [linen](github.com/mginshe/linen). please see the respective pages (in order) for guides on their setup and installation.
 
 
 
